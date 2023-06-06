@@ -129,7 +129,7 @@ p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 300;
-  color: #afafaf;
+  color: #000;
 }
 
 img {
@@ -355,7 +355,7 @@ header
 }
 
 .pre-header ul.info li a {
-  color: #afafaf;
+  color: #000;
   font-size: 14px;
   transition: all .3s;
 }
@@ -378,7 +378,7 @@ header
 }
 
 .pre-header ul.social-media li a {
-  background-color: #afafaf;
+  background-color: #000;
   color: #fff;
   display: inline-block;
   width: 30px;
@@ -890,7 +890,7 @@ preloader
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #fff;
+    background-color: #000;
     display: -webkit-box;
     display: flex;
     -webkit-box-align: center;
@@ -1183,7 +1183,7 @@ About Style
 .progress .progress-value span {
   font-size: 18px;
   text-transform: none;
-  color: #afafaf;
+  color: #000;
   font-weight: 300;
 }
 
@@ -1541,7 +1541,7 @@ Free Quote
   width: 100%;
   margin-top: 20px;
   margin-left: 30px;
-  color: #afafaf;
+  color: #000;
   font-weight: 400;
   font-size: 15px;
   height: 40px;
@@ -1660,7 +1660,7 @@ Portfolio
 
 .portfolio-item .down-content span {
   font-size: 15px;
-  color: #afafaf;
+  color: #000;
   transition: all .3s;
 }
 
@@ -1760,7 +1760,7 @@ Blog
 
 .blog-post .down-content span.date {
   font-size: 15px;
-  color: #afafaf;
+  color: #000;
   text-align: right;
   float: right;
   margin-top: 4px;
@@ -1833,7 +1833,7 @@ Blog
 
 .post-item .right-content span.date {
   font-size: 15px;
-  color: #afafaf;
+  color: #000;
   text-align: right;
   float: right;
   margin-top: 4px;
